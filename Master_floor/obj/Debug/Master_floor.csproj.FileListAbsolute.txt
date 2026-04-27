@@ -1,0 +1,14 @@
+C:\ПМ.011-Учебная практика\День5\Задание\Master_floor\Master_floor\obj\Debug\Master_floor.csproj.AssemblyReference.cache
+C:\ПМ.011-Учебная практика\День5\Задание\Master_floor\Master_floor\obj\Debug\MainWindow.g.cs
+C:\ПМ.011-Учебная практика\День5\Задание\Master_floor\Master_floor\obj\Debug\App.g.cs
+C:\ПМ.011-Учебная практика\День5\Задание\Master_floor\Master_floor\obj\Debug\Master_floor_MarkupCompile.cache
+C:\ПМ.011-Учебная практика\День5\Задание\Master_floor\Master_floor\bin\Debug\Master_floor.exe.config
+C:\ПМ.011-Учебная практика\День5\Задание\Master_floor\Master_floor\bin\Debug\Master_floor.exe
+C:\ПМ.011-Учебная практика\День5\Задание\Master_floor\Master_floor\bin\Debug\Master_floor.pdb
+C:\ПМ.011-Учебная практика\День5\Задание\Master_floor\Master_floor\obj\Debug\MainWindow.baml
+C:\ПМ.011-Учебная практика\День5\Задание\Master_floor\Master_floor\obj\Debug\Master_floor.g.resources
+C:\ПМ.011-Учебная практика\День5\Задание\Master_floor\Master_floor\obj\Debug\Master_floor.Properties.Resources.resources
+C:\ПМ.011-Учебная практика\День5\Задание\Master_floor\Master_floor\obj\Debug\Master_floor.csproj.GenerateResource.cache
+C:\ПМ.011-Учебная практика\День5\Задание\Master_floor\Master_floor\obj\Debug\Master_floor.csproj.CoreCompileInputs.cache
+C:\ПМ.011-Учебная практика\День5\Задание\Master_floor\Master_floor\obj\Debug\Master_floor.exe
+C:\ПМ.011-Учебная практика\День5\Задание\Master_floor\Master_floor\obj\Debug\Master_floor.pdb

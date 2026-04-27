@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Master_floor.Tests/Master_floor.Tests.csproj" />
+  <Project Path="Master_floor/Master_floor.csproj" />
+</Solution>
